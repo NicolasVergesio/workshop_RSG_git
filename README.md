@@ -10,5 +10,4 @@ Clonar el repositorio
 git clone git@github.com:NicolasVergesio/workshop_RSG_git.git
 ```
 
-que rico es el queso mar del plata
 
